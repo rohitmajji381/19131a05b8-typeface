@@ -1,0 +1,1 @@
+we can scrap a website using a Beautiful Soup tool.
